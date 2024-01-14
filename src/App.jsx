@@ -48,7 +48,8 @@ function App() {
     fetch(
       // `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${lat}, ${lon}&days=3&aqi=no&alerts=yes`
       // `http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}`
-      ``
+      // `https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=b4a0e30fef544f27932ef7d8bfb98e9d&q=nagpur`
+      `https://api.weatherapi.com/v1/forecast.json?key=17388c37d18841b1982181110241001&q=${lat}, ${lon}&days=3&aqi=no&alerts=yes`
     )
       .then((response) => response.json())
       .then((data) => {
@@ -64,6 +65,7 @@ function App() {
     fetch(
       // `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${location}&days=3&aqi=no&alerts=yes`
       // `http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}`
+      `https://api.weatherapi.com/v1/forecast.json?key=17388c37d18841b1982181110241001&q=${location}&days=3&aqi=no&alerts=yes`
     )
       .then((response) => response.json())
       .then((data) => {
