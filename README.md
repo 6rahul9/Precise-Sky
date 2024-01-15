@@ -4,13 +4,13 @@
 
 ## Tech/framework used
 
-Designed and Built with React, CSS, GeolocationAPI, and OpenWeatherAPI.
+Designed and Built with React, GeolocationAPI and OpenWeatherAPI.
 
 ## Screenshots and demo
 
-![image](https://user-images.githubusercontent.com/84178696/207818453-12d1fafa-792b-4159-94f2-e929efc55e72.png)
+![Screenshot of weather app  2024-01-14 140047](https://github.com/6rahul9/Precise-Sky/assets/97466426/69799c3d-2c6f-4a97-80f7-f2f354d03432)
+![Screenshot weather app-2 2024-01-14 ](https://github.com/6rahul9/Precise-Sky/assets/97466426/1c2c8241-d366-41a7-8666-59c2cb9f590d)
 
-![image](https://user-images.githubusercontent.com/84178696/207818860-604879d6-d2b4-445b-99a8-70d32581e7dc.png)
 
 ### [Click to view Live Demo]()
 
