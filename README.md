@@ -9,11 +9,11 @@ Designed and Built with React, GeolocationAPI and OpenWeatherAPI.
 ## Screenshots and demo
 <<<<<<< HEAD
 ![Screenshot of weather app  2024-01-14 140047](https://github.com/6rahul9/Precise-Sky/assets/97466426/69799c3d-2c6f-4a97-80f7-f2f354d03432)
-![Screenshot weather app-2 2024-01-14 ](https://github.com/6rahul9/Precise-Sky/assets/97466426/1c2c8241-d366-41a7-8666-59c2cb9f590d)
+
 =======
 
 ![Screenshot of weather app  2024-01-14 140047](https://github.com/6rahul9/Precise-Sky/assets/97466426/69799c3d-2c6f-4a97-80f7-f2f354d03432)
-![Screenshot weather app-2 2024-01-14 ](https://github.com/6rahul9/Precise-Sky/assets/97466426/1c2c8241-d366-41a7-8666-59c2cb9f590d)
+
 
 >>>>>>> 37b81b9b62b8aa6421a8f86dbbd196fb9eabd8b1
 
